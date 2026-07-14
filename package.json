@@ -1,10 +1,11 @@
 {
-  "name": "tool-template",
+  "name": "tool-crc-algorithm-lab",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "test": "node --test",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
